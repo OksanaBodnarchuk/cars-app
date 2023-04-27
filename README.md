@@ -1,1 +1,1 @@
-# cars-app [Here can you see my work on GitHub Pages](https://oksanabodnarchuk.github.io/cars-app/)
+# cars-app [Here you can see my work on GitHub Pages](https://oksanabodnarchuk.github.io/cars-app/)
